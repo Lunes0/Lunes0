@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there! 🫰
 
-<!--
-**Lunes0/Lunes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PT-BR
 
-Here are some ideas to get you started:
+Olá! Me chamo Murilo e sou um desenvolvedor web júnio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou sempre em busca de conhecer novas coisas e aprimorar minhas habilidades.
+
+As principais tecnologias e ferramentas que possuo experiência são React, Vue, Tailwind e TypeScript.
+
+
+### **Ferramentas e tecnologias:**
+- React, Vue, Tailwind, TypeScript
+- VS Code, Figma, Vercel
+- Grunt, Gulp, Sass, Less
+- Bootstrap, jQuery
+
+
+### **Sobre mim:**
+- Gosto de videogames...muito
+- Amante da música
+- Apaixonado por terror e ficção científica
+
+---
+
+### EN
+
+Hi! My name is Murilo and I'm a junior web developer.
+
+I'm always looking to learn new things and improve my skills.
+
+The main technologies and tools I have experience with are React, Vue, Tailwind, and TypeScript.
+
+
+### **Tools and technologies:**
+- React, Vue, Tailwind, TypeScript
+- VS Code, Figma, Vercel
+- Grunt, Gulp, Sass, Less
+- Bootstrap, jQuery
+
+
+### **About me:**
+- I like video games...a lot
+- Music lover
+- Passionate about horror and sci-fi
