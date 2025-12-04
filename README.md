@@ -2,7 +2,7 @@
 
 ### PT-BR
 
-Olá! Me chamo Murilo e sou um desenvolvedor web júnio.
+Olá! Me chamo Murilo e sou um desenvolvedor web junior.
 
 Estou sempre em busca de conhecer novas coisas e aprimorar minhas habilidades.
 
