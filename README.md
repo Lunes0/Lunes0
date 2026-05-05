@@ -1,7 +1,8 @@
 # Hi there! 🫰
 
-### PT-BR
+###### PT-BR
 
+### Sobre mim
 Olá! Me chamo Murilo e sou um desenvolvedor web junior.
 
 Estou sempre em busca de conhecer novas coisas e aprimorar minhas habilidades.
@@ -23,8 +24,9 @@ As principais tecnologias e ferramentas que possuo experiência são React, Vue,
 
 ---
 
-### EN
+###### EN
 
+###About me
 Hi! My name is Murilo and I'm a junior web developer.
 
 I'm always looking to learn new things and improve my skills.
